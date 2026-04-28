@@ -1,0 +1,16 @@
+portfolio = {
+    "AAPL": {"qty": 6, "avg_price": 258.85},
+    "ACN": {"qty": 18, "avg_price": 222.63},
+    "AMZN": {"qty": 15, "avg_price": 205.35}, 
+    "ASML": {"qty": 2, "avg_price": 1420.39},
+    "AVGO": {"qty": 6, "avg_price": 311.66},
+    "GOOG": {"qty": 9, "avg_price": 301.53},
+    "META": {"qty": 10, "avg_price": 622.97},
+    "MSFT": {"qty": 24, "avg_price": 401.16},
+    "NET": {"qty": 6, "avg_price": 186.09},
+    "NFLX": {"qty": 34, "avg_price": 79.36},
+    "NOW": {"qty": 14, "avg_price": 89.54},
+    "NVDA": {"qty": 8, "avg_price": 180.07},
+    "PLTR": {"qty": 17, "avg_price": 136.21},
+    "TSLA": {"qty": 6, "avg_price": 388.86},
+}
